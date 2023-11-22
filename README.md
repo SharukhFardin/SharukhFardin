@@ -8,7 +8,7 @@ I love to code. I never miss the chance to explore new things that will increase
 
 * 🌍  I'm based in Dhaka, Bangladesh, Asia
 * ✉️  You can contact me at [sharukhfardin@gmail.com](mailto:sharukhfardin@gmail.com)
-* 🚀  I'm currently working on [HRPro](http://https://hrpro.vercel.app/)
+* 🚀  I'm currently working on [HRPro](http://https://hrpro.vercel.app)
 * 🤝  I'm open to collaborating on interesting projects
 
 ### Skills
