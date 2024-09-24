@@ -4,12 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -----------------
 
-I love to code. I never miss the chance to explore new things that will increase my knowledge. I may not know the solution to a problem but I do know how to figure it out. See you around.
+I love to code. I never miss exploring new things that will increase my knowledge. I may not know the solution to a problem, but I know how to figure it out.
 
 * 🌍  I'm based in Dhaka, Bangladesh, Asia
 * ✉️  You can contact me at [sharukhfardin@gmail.com](mailto:sharukhfardin@gmail.com)
-<!-- * 🚀  I'm currently working on [Jumatechs](https://jumatechs.com/) -->
 * 🤝  I'm open to collaborating on interesting projects
+<!-- * 🚀  I'm currently working on [Jumatechs](https://jumatechs.com/) -->
 
 ### Skills
 
