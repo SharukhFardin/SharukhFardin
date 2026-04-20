@@ -39,3 +39,4 @@ I am a passionate software engineer based in Dhaka, Bangladesh, with a love for 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharukh-fardin)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](http://www.instagram.com/theghost0__0)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/sharukh.fardin.28)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=internetexplorer&logoColor=white)](https://www.iamfardin.site/)
